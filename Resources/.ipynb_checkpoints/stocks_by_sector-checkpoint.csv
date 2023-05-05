@@ -1,0 +1,96 @@
+Ticker,Sector
+FCX,Basic Materials
+GOLD,Basic Materials
+NEM,Basic Materials
+WPM,Basic Materials
+X,Basic Materials
+TMUS,Communication Services
+VZ,Communication Services
+ROKU,Communication Services
+SNAP,Communication Services
+SPOT,Communication Services
+T,Communication Services
+NFLX,Communication Services
+META,Communication Services
+DIS,Communication Services
+DISH,Communication Services
+ATVI,Communication Services
+AMZN,Consumer Cyclical
+DHI,Consumer Cyclical
+ETSY,Consumer Cyclical
+GM,Consumer Cyclical
+MGM,Consumer Cyclical
+NKE,Consumer Cyclical
+HD,Consumer Cyclical
+M,Consumer Cyclical
+SBUX,Consumer Cyclical
+TSLA,Consumer Cyclical
+WMT,Consumer Defensive
+TGT,Consumer Defensive
+MO,Consumer Defensive
+KO,Consumer Defensive
+PEP,Consumer Defensive
+PG,Consumer Defensive
+PM,Consumer Defensive
+CAG,Consumer Defensive
+BYND,Consumer Defensive
+ADM,Consumer Defensive
+APA,Energy
+CCJ,Energy
+CVX,Energy
+DVN,Energy
+MRO,Energy
+HAL,Energy
+MPC,Energy
+SLB,Energy
+OXY,Energy
+VLO,Energy
+MA,Financial
+MARA,Financial
+JPM,Financial
+PYPL,Financial
+MS,Financial
+GDXJ,Financial
+BX,Financial
+COF,Financial
+AXP,Financial
+C,Financial
+BAC,Financial
+AFL,Financial
+AMGN,Healthcare
+ABBV,Healthcare
+ABT,Healthcare
+BMY,Healthcare
+CAH,Healthcare
+CVS,Healthcare
+PFE,Healthcare
+JNJ,Healthcare
+MDT,Healthcare
+MRK,Healthcare
+MRNA,Healthcare
+WBA,Healthcare
+RTX,Industrials
+LUV,Industrials
+PLUG,Industrials
+MMM,Industrials
+GE,Industrials
+CAT,Industrials
+CSX,Industrials
+DAL,Industrials
+BA,Industrials
+AAL,Industrials
+AMT,Real Estate
+WELL,Real Estate
+ZM,Technology
+SQ,Technology
+AMD,Technology
+AAPL,Technology
+CRM,Technology
+MRVL,Technology
+NVDA,Technology
+ORCL,Technology
+QCOM,Technology
+MSFT,Technology
+MU,Technology
+HPQ,Technology
+INTC,Technology
