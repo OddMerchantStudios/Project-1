@@ -1,0 +1,7 @@
+jupyterlab
+python-dotenv
+hvplot
+yfinance
+pandas-datareader 
+seaborn
+alpaca-trade-api
