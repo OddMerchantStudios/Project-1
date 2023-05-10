@@ -65,11 +65,11 @@
 - 10 years
 
 ------------------------------
-### - The objective was to identify which index, sectors and stocks were more or less correlated; and which indexes, sectors and stocks produced the best sharpe ratios as a proxy for most efficient returns per unit of risk.  The top performing sharpe ratio stocks would then be utilized in creating optimal portfolios for future returns and risk forecasting. 
+###  *The objective was to identify which index, sectors and stocks were more or less correlated; and which indexes, sectors and stocks produced the best sharpe ratios as a proxy for most efficient returns per unit of risk.  The top performing sharpe ratio stocks would then be utilized in creating optimal portfolios for future returns and risk forecasting.*
 
-### - Initial performance analysis for index and sectors show us a couple of key trends and insights:
+###   Initial performance analysis for index and sectors show us a couple of key trends and insights:
 
-### - Ranking performance by indexes:
+###   Ranking performance by indexes:
 
 
 
