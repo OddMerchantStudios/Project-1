@@ -1,50 +1,76 @@
-# Time-Analysis For Best Performing Stocks In Overal Sector
+# Historical Index, Sector and Stock Market Analysis
 
 ## Questions:
  
- ​1. Report 1 Aims to answer the question: How does the stock market correlate to the economy? Indexes to Sectors - which sectors are most correlated to which indexes? Stocks to sectors - which stocks most correlated to which sectors? Stocks to Indexes - which stocks are most correlated to which indexes? How do these correlations change over key market time periods? 
-<br />
-<br />
-2. Report 2 aims to answer the question: What is the rank for best quality value in growth stocks based on fundamental metric analysis? What is the correlations between stock returns and the fundamental metrics.
-<br />
-<br />
-3. Report 3 aims to answer the question: What are the best basket of securities to invest in based on fundamental metric analysis? What is the correlations between stock returns and the fundamental metrics. What is the optimal investment portfolio to maximize returns and minimize risk for a given return time frame using the Sharpe ratio?
+### Analysis Framework:
 
-# Report 1
+#### **Market Statistics Report:**
+1. Review stock, index and stock performance over 1, 5 and 10 year windows.
+2. Show relationships between indexes, sectors and stocks.
+3. Rank order and identify top performing indexes, sectors and stocks within the time periods selected.
+4. Identify relationships between the time periods - which indexes and stocks perform consistently?
+5. Identify top 10 most efficient stocks per the sharpe ratio for further portfolio development and analysis.
 
-## Market Statistics Report
+#### **Fundamental Report:**
+6. Identify best value and growth portfolio stocks for further portfolio development and analysis.
 
-TIME SERIES ANALYSIS, CORRELATIONS, SHARPE RATIOS
+#### **Optimal Portfolio Simulated Returns and Analysis:**
+7. Run MC simulations on best set of value, growth and sharpe ratio portfolios across 1,5 and 10 year time periods.
+8. Identify which equal weighted portfolio performs best in a scenario analysis.
+9. Summarize optimal portfolio findings.
 
-1. Index, sector and stock performance statistics (selected equities):
-    * Returns
-    * Standard deviation
-    * Correlation
-    * Sharpe Ratios
-    * Company Fundamentals Summary
-2. Static and Time Series Analysis of metrics above by population segments: indices sectors and stocks. 
-    - Indexes
-        - 4 major indexes 
-    - Sectors 
-        - 8-10 key market sectors 
-    - Stocks
-        - 95 stock list
 
-3. Correlation analysis - MARKET AND STOCKS  Understanding Relationships
-    - Indexes to Sectors - which sectors are most correlated to which indexes? 
-    - Stocks to sectors - which stocks most correlated to which sectors?
-    - Stocks to Indexes - which stocks are most correlated to which indexes? 
-    - How do these correlations change over key market time periods? 
 
-4. Sharpe Ratio Analysis:
-    - Rank order stocks by Sharpe Ratios 
-    - Analyze ratio across sectors and time. 
+# Report 1 : **Market Statistics Report**
 
-5. Statistical Metrics - STOCKS AND OPTIONS (Calls/Puts)**
-    1. Stocks and select options for select time periods.
-    2. 70, 50 and 30 delta options
-    3. 0 DTE, 5 DTE, 15 DTE, 30 DTE, 60 DTE
-    4. Analyze returns, standard deviation, correlation and Sharpe ratios for select options vs. stocks.
+## ***Overview of Indexes, Sectors and Stocks used in analysis:***
+
+### **Indexes**:
+
+- **DIA** - Dow Jones Industrial Average
+- **SPY** - S&P 500
+- **QQQ** - Nasdaq 100
+- **IWM** - Russell 2000
+
+### **Sectors**:
+
+- **IYC** - Consumer Discretionary
+- **IYH** - Healthcare
+- **IYK** - Consumer Staples
+- **IYR** - Real Estate
+- **IYZ** - Communication Services
+- **XLB** - Materials
+- **XLE** - Energy
+- **XLF** - Financials
+- **XLI** - Industrials
+- **XLK** - Technology
+
+-------------------
+## ***Optionable Stock Universe:***
+#### We did not use all 5,000+ stock tickers for this analysis but limited our analysis to what we called the “Optionable Stock Universe”, this universe is defined by stocks that have the following characteristics:
+- Options securities available to trade
+- Weekly expiration dates on options available to trade
+- Tight bid-ask spreads = liquidity on weekly options expirations
+-  \> 1 MM in average daily stock trading volume 
+-----------------
+## ***Performance Analysis Framework:***
+### Our analysis methodology focused on 3 key metrics:  
+- Mean Returns (annualized)
+- Standard deviation of Returns
+- Sharpe Ratios of Index, Sector or Stock (assumes 1 index, sector or stock portfolio)
+-----------------------
+## **We utilized 3 different time periods for analysis:**
+- 1 year
+- 5 years
+- 10 years
+
+------------------------------
+###  *The objective was to identify which index, sectors and stocks were more or less correlated; and which indexes, sectors and stocks produced the best sharpe ratios as a proxy for most efficient returns per unit of risk.  The top performing sharpe ratio stocks would then be utilized in creating optimal portfolios for future returns and risk forecasting.*
+
+###   Initial performance analysis for index and sectors show us a couple of key trends and insights:
+
+###   Ranking performance by indexes:
+
 
 
 # Report 2
