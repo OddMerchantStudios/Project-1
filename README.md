@@ -1,6 +1,4 @@
-# Main Title
-Using Yahoo finance API, we will be analyzing the stock market and its correlation to the economy. We will be looking at the stock market as a whole and then breaking it down into sectors. We will be looking at the correlation between the indexes, sectors and stocks market.
-
+# Time-Analysis For Best Performing Stocks In Overal Sector
 
 ## Questions:
  
