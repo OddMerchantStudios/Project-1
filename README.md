@@ -504,9 +504,6 @@
 - [JUPYTER LAB NOTEBOOK LINK](./main.ipynb)
 - [Final Analysis](./file.ipynb)
 
-<br>
-
-
 ## Getting Started
 
 ### Prerequisites
