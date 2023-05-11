@@ -177,7 +177,6 @@
 - Standard deviation of Returns
 - Sharpe Ratios of Index, Sector or Stock (assumes 1 index, sector or stock portfolio)
 
-<br>
 
 ## **We utilized 3 different time periods for analysis:**
 -----------------------
