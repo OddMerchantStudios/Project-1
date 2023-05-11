@@ -282,11 +282,10 @@
 ### ***Bottom 3 performing sectors for returns:***
 -----------
 
-
-	        1-year					           5-year                           10-year
-    Communications      -14.3%		Communications	    -10.8%		Communications	        3.2%
-    Real Estate	       -8.4%		Real Estate		25.9%		    Energy			        46.1%
-    Financials	       -2.6%		Financials		26.9%		    Real Estate		        61.3%
+	1-year					        5-year                          10-year
+    Communications     -14.3%		Communications	-10.8%		    Communications            3.2%
+    Real Estate	       -8.4%		Real Estate		25.9%		    Energy		            46.1%
+    Financials	       -2.6%		Financials		26.9%		    Real Estate	            61.3%
 
 #### - Communications is clearly the WORST performing sector across all timeframes and is consistently the best performing sector.
 #### - Real Estate and Financial round out the bottom 3 across all timeframes.
