@@ -150,8 +150,6 @@
 - SQ
 - ZM
 
-<br>
-
 ## ***Optionable Stock Universe:***
 -------------------
 #### We did not use all 5,000+ stock tickers for this analysis but limited our analysis to what we called the “Optionable Stock Universe”, this universe is defined by stocks that have the following characteristics:
@@ -160,14 +158,10 @@
 - Tight bid-ask spreads = liquidity on weekly options expirations
 -  \> 1 MM in average daily stock trading volume 
 
-<br>
-
-
 ## Count of stocks by sector bar chart:
 ![Plot1](./Resources/images/working/Sector_stock_count.png)
 ​
 <br>
------------------
 
 ## ***Performance Analysis Framework:***
 ### Our analysis methodology focused on 3 key metrics:  
