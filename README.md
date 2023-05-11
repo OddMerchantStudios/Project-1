@@ -9,10 +9,10 @@
 4. Identify relationships between the time periods - which indexes and stocks perform consistently?
 5. Identify top 10 most efficient stocks per the sharpe ratio for further portfolio development and analysis.
 
-#### **Fundamental Report:**
+#### **Growth vs Value Portfolios:**
 6. Identify best value and growth portfolio stocks for further portfolio development and analysis.
 
-#### **Optimal Portfolio Simulated Returns and Analysis:**
+#### **Optimal Portfolio Simulated Returns and Analysis using Monte Carlo Simulations:**
 7. Run MC simulations on best set of value, growth and sharpe ratio portfolios across 1,5 and 10 year time periods.
 8. Identify which equal weighted portfolio performs best in a scenario analysis.
 9. Summarize optimal portfolio findings.
