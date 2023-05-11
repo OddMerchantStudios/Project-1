@@ -498,7 +498,6 @@ Initial investment of 10000 over the next 5 years would return anywhere from 227
         - Growth - 5 year data
         - Top 10 Sharpe Ratio - 10 year data
 - Question for investors becomes what is their investment objective:  to maximize cumulative returns over 5 years or to maximize returns per unit of risk over the next 5 years?
-- The projected opportunity cost of risk efficiency is forgoing ~xxx% in cumulative returns vs the maximum return portfolio
 - All these portfolio generate fantastic returns vis-a-vis indexes and project sharpe ratios much higher than historical indexes
 - A select handful of stocks stick out as potential future investments with probability of great returns, the unknown is will value or growth stocks perform better moving forward?
 - Growth Stocks & Top Sharpe Ratio Ranked Stocks (4):
