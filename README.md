@@ -283,7 +283,7 @@
 -----------
 
 	1-year					        5-year                          10-year
-    Communications     -14.3%		Communications	-10.8%		    Communications            3.2%
+    Communications      -14.3%		Communications	    -10.8%		    Communications            3.2%
     Real Estate	       -8.4%		Real Estate		25.9%		    Energy		            46.1%
     Financials	       -2.6%		Financials		26.9%		    Real Estate	            61.3%
 
