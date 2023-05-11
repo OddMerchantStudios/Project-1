@@ -267,10 +267,10 @@
 
 -------------
 
-	1-year					5-year					        10-year
-    Technology	13.1%		Technology		    128.7%		Technology		    454.5%
+	    1-year					5-year					        10-year
+    Technology	13.1%		Technology		    128.7%		Technology		        454.5%
     Energy		10.1%		Consumer Staples	    101.4%		Healthcare		    215.3%
-    Industrials	 8.7%		Healthcare		    73.2%		Consumer Staples	187.0%
+    Industrials	 8.7%		Healthcare		    73.2%		Consumer Staples	    187.0%
 
 
 <br>
