@@ -185,11 +185,7 @@
 - 5 years
 - 10 years
 
-<br>
-
 ##### The objective was to identify which index, sectors and stocks were more or less correlated; and which indexes, sectors and stocks produced the best sharpe ratios as a proxy for most efficient returns per unit of risk.  The top performing sharpe ratio stocks would then be utilized in creating optimal portfolios for future returns and risk forecasting.
-
-<br>
 
 ## ***INDEXES PERFORMANCE:***
 
@@ -206,13 +202,11 @@
     SPY	5.4%		DIA	51%		DIA	176%
     IWM	1.4%		IWM	17%		IWM	106%
 
-#### So when passive investors are told to “buy and hold” the market to capture market returns, what Index defines the market?  The Russell 2000 covers 10% of the market and produces the lowest returns.  The S&P covers 75% of the market and has returns ~35-45% lower than the NASDAQ.  The Dow Jones Industrial Average is a well known index but it covers only 30 stocks and performs worse than the S&P and NASDAQ.  General rule is the S&P 500 is the market and we’ll go with that assumption.
-<br>
+##### So when passive investors are told to “buy and hold” the market to capture market returns, what Index defines the market?  The Russell 2000 covers 10% of the market and produces the lowest returns.  The S&P covers 75% of the market and has returns ~35-45% lower than the NASDAQ.  The Dow Jones Industrial Average is a well known index but it covers only 30 stocks and performs worse than the S&P and NASDAQ.  General rule is the S&P 500 is the market and we’ll go with that assumption.
 
-#### Over the analysis time periods, the NASDAQ has consistently beaten all other indexes in returns by a fairly large margin while the Russell 2000 has been the poorest performer, with the S&P being the 2nd best performing Indexes.
-<br>
+##### Over the analysis time periods, the NASDAQ has consistently beaten all other indexes in returns by a fairly large margin while the Russell 2000 has been the poorest performer, with the S&P being the 2nd best performing Indexes.
 
-### **Ranking performance by indexes sharpe ratio performance (assuming portfolio of 1 in each case):**
+#### Ranking performance by indexes sharpe ratio performance (assuming portfolio of 1 in each case):
 
 -------
 
