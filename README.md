@@ -240,9 +240,13 @@ Over the analysis time periods, the NASDAQ has consistently beaten all other ind
 ### ***Ranking performance by sector cumulative returns:***
 <br>
 
-### **Top 3 performing sectors for returns:**
+​![Plot18](./Resources/images/working/index_and_sector_cumulative_return_ranking_1_year.png)
 
--------------
+​![Plot19](./Resources/images/working/index_and_sector_cumulative_return_ranking_5_year.png)
+
+​![Plot20](./Resources/images/working/index_and_sector_cumulative_return_ranking_10_year.png)
+
+### **Top 3 performing sectors for returns:**
 
 |             | 1-year |           | 5-year           |           | 10-year           |
 |-------------|--------|-----------|------------------|-----------|-------------------|
@@ -258,7 +262,7 @@ Over the analysis time periods, the NASDAQ has consistently beaten all other ind
 - Energy and Industrials are in the top 3 performers for the last year.  A hypothesis here is this could be inflation driven performance numbers.
 
 ### ***Bottom 3 performing sectors for returns:***
------------
+
 
 
 |                | 1-year  |             | 5-year  |             | 10-year |
@@ -415,6 +419,12 @@ Over the analysis time periods, the NASDAQ has consistently beaten all other ind
 <br>
 
 ## **Top Value and Growth Stocks: Ranked by Sharpe Ratio:**
+
+​![Plot21](./Resources/images/working/growth_vs_value_sharpe_comp_1_year.png)
+
+​![Plot22](./Resources/images/working/growth_vs_value_sharpe_comp_5_year.png)
+
+​![Plot23](./Resources/images/working/growth_vs_value_sharpe_comp_10_year.png)
 
 - After segmentation, stocks were analyzed based on sharpe ratios and rank ordered for selection.
 - We selected the top 5 value and top 5 growth stocks for each time period: 1, 5 and 10 years for further portfolio optimization analysis
