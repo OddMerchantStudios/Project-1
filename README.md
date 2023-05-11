@@ -254,11 +254,10 @@
     Industrials	 8.7%		Healthcare		    73.2%		Consumer Staples	    187.0%
 
 
-<br>
 
-#### - Technology is clearly the BEST performing sector across all timeframes and is consistently the best performing sector.
-#### - Healthcare and Consumer Staples round out the top 3 in 5 and 10 year timeframes for top cumulative returns.
-#### - Energy and Industrials are in the top 3 performers for the last year.  A hypothesis here is this could be inflation driven performance numbers.
+- Technology is clearly the BEST performing sector across all timeframes and is consistently the best performing sector.
+- Healthcare and Consumer Staples round out the top 3 in 5 and 10 year timeframes for top cumulative returns.
+- Energy and Industrials are in the top 3 performers for the last year.  A hypothesis here is this could be inflation driven performance numbers.
 
 ### ***Bottom 3 performing sectors for returns:***
 -----------
@@ -268,10 +267,10 @@
     Real Estate	       -8.4%		Real Estate		25.9%		    Energy		         46.1%
     Financials	       -2.6%		Financials		26.9%		    Real Estate	            61.3%
 
-#### - Communications is clearly the WORST performing sector across all timeframes and is consistently the best performing sector.
-#### - Real Estate and Financial round out the bottom 3 across all timeframes.
-#### - There is clear consistency in the top performing and bottom performing sectors across almost all time periods analyzed.
-#### - The cumulative return gap across time between the top performing and bottom performing sectors is significant as an investor.  Just concentrating investment bets by sector would dramatically improve cumulative return performance.
+- Communications is clearly the WORST performing sector across all timeframes and is consistently the best performing sector.
+- Real Estate and Financial round out the bottom 3 across all timeframes.
+- There is clear consistency in the top performing and bottom performing sectors across almost all time periods analyzed.
+- The cumulative return gap across time between the top performing and bottom performing sectors is significant as an investor.  Just concentrating investment bets by sector would dramatically improve cumulative return performance.
 
 <br>
 
