@@ -1,7 +1,5 @@
 # Historical Index, Sector and Stock Market Analysis
 
-## Questions:
- 
 ### Analysis Framework:
 
 #### **Market Statistics Report:**
@@ -363,21 +361,21 @@
 ### **1 Year View:**
 
 
-​![Plot11](./Resources/images/working/Top_10_Sharpe_Ratio_Optionable_Stocks_Ranking_1_Year_Window.png)
+​![Plot11](./Resources/images/working/bokeh_plot_3.png)
 
 <br>
 
 ### **5 Year View:**
 ---------
 
-​![Plot12](./Resources/images/working/Top_10_Sharpe_Ratio_Optionable_Stocks_Ranking_5_Year_Window.png)
+​![Plot12](./Resources/images/working/bokeh_plot_4.png)
 
 <br>
 
 ### **10 Year View:**
 ----------
 
-​![Plot13](./Resources/images/working/Top_10_Sharpe_Ratio_Optionable_Stocks_Ranking_10_Year_Window.png)
+​![Plot13](./Resources/images/working/bokeh_plot_5.png)
 
 <br> 
 
