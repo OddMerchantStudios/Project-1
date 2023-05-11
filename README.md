@@ -267,6 +267,14 @@
     Real Estate	       -8.4%		Real Estate		25.9%		    Energy		    46.1%
     Financials	       -2.6%		Financials		26.9%		    Real Estate	            61.3%
 
+
+| 1-Year | 5-year | 10-year |
+|--------|--------|--------|
+| Communications | -14.3% |Communications | -10.8% |Communications | 3.2% |
+| data   | dATA   |data   | dATA   |data   | dATA   |
+
+
+
 - Communications is clearly the WORST performing sector across all timeframes and is consistently the best performing sector.
 - Real Estate and Financial round out the bottom 3 across all timeframes.
 - There is clear consistency in the top performing and bottom performing sectors across almost all time periods analyzed.
@@ -486,7 +494,12 @@
     - DHI
 
 -----------------------
- #### In conclusion, a key assumption of future stock performance's are economic conditions that move forward and will have similar impacts on growth and value stocks as they have the last 10 years.  The big change though is the last 10 years were 0% interest rate, low inflation economic conditions where investors search for yield and growth.  In a high interest rate, higher inflation rate environment moving forward, does value outperform growth?  When investors can get a risk free 5% yield on their money, investing in riskier assets is not as appealing.
+
+- A key assumption of future stock performance is macro-economic conditions moving forward and how these conditions impact growth stocks vs. value stocks.
+-  The big macro-economic change taking place right now is we’re shifting away from a 0% interest rate, low inflation, stable growth environment that has lasted for ~10 years (excluding COVID volatility) to a high interest rate, high inflation, uncertain growth environment. 
+- Given these changes, do growth stocks outperform value stocks over the next 5-10 years?  When investors can get a risk free 5% yield on their money, investing in riskier assets may not be as appealing.  - Value stocks generally outperform growth stocks in higher rate, higher inflation, slower growth environments.
+- Having said this, select high sharpe ratio stocks (growth or value) like NVDA, MSFT and AAPL may continue to do well moving forward.
+
 --------------
 
 ## Notebooks
