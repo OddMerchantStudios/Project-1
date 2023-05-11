@@ -442,6 +442,12 @@
 <br>
 
 
+## **Analysis Conclusion:**
+-----------------------
+### *In conclusion, a key assumption of future stock performance's are economic conditions that move forward and will have similar impacts on growth and value stocks as they have the last 10 years.  The big change though is the last 10 years were 0% interest rate, low inflation economic conditions where investors search for yield and growth.  In a high interest rate, higher inflation rate environment moving forward, does value outperform growth?  When investors can get a risk free 5% yield on their money, investing in riskier assets is not as appealing.*
+--------------
+
+
 1. KEY CONCLUSIONS FROM PORTFOLIO SIMULATIONS:
     - *If investors want to maximize cumulative 5-year returns on their investments, the portfolio rank ordering is as follows:*
         - Growth - 1 year data
@@ -485,20 +491,9 @@
 ------------
 <br>
 
-
-
-<br>
-
 ## Notebooks
 - [JUPYTER LAB NOTEBOOK LINK](./main.ipynb)
 - [Final Analysis](./file.ipynb)
-
-​
-
-## **Analysis Conclusion:**
------------------------
-### *In conclusion, a key assumption of future stock performance is economic conditions moving forward will have similar impacts on growth and value stocks as they have the last 10 years.  The big change though is the last 10 years were 0% interest rate, low inflation economic conditions where investors search for yield and growth.  In a high interest rate, higher inflation rate environment moving forward, does value outperform growth?  When investors can get a risk free 5% yield on their money, investing in riskier assets is not as appealing.*
---------------
 
 <br>
 
