@@ -19,7 +19,7 @@
 
 
 
-# Report 1 : **Market Statistics Report**
+# **Market Statistics Report**
 
 ## ***Overview of Indexes, Sectors and Stocks used in analysis:***
 
@@ -281,7 +281,7 @@ Over the analysis time periods, the NASDAQ has consistently beaten all other ind
 
 <br>
 
-## ***INDEX AND SECTOR CORRELATIONS:***
+# ***INDEX AND SECTOR CORRELATIONS:***
 ----------------
 - Correlation coefficients across all indexes and sectors converge close to 1 as time increases to 10 years.  
 - The assumption here is based on the correlation coefficient formula, as the sample size increases with time, the - correlation coefficient increases over time.
@@ -381,7 +381,7 @@ Over the analysis time periods, the NASDAQ has consistently beaten all other ind
 <br> 
 
 
-## **VALUE vs GROWTH PORTFOLIOS:**
+# **VALUE vs GROWTH PORTFOLIOS:**
 
 ### **Portfolio Definition and Analysis:**
 
