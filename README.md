@@ -176,7 +176,7 @@
 - Sharpe Ratios of Index, Sector or Stock (assumes 1 index, sector or stock portfolio)
 
 
-## **We utilized 3 different time periods for analysis:**
+## ***We utilized 3 different time periods for analysis:***
 -----------------------
 - 1 year
 - 5 years
@@ -193,32 +193,36 @@
 
 ### Ranking performance by indexes:
 
-	1-year			5-year			10-year
-    QQQ	9.5%		QQQ	97%		QQQ	383%			
-    DIA	6.5%		SPY	65%		SPY	204%
-    SPY	5.4%		DIA	51%		DIA	176%
-    IWM	1.4%		IWM	17%		IWM	106%
+|       | 1-year |       | 5-year |       | 10-year |
+|-------|--------|-------|--------|-------|---------|
+| QQQ   | 9.5%   | QQQ   | 97%    | QQQ   | 383%    |
+| DIA   | 6.5%   | SPY   | 65%    | SPY   | 204%    |
+| SPY   | 5.4%   | DIA   | 51%    | DIA   | 176%    |
+| IWM   | 1.4%   | IWM   | 17%    | IWM   | 106%    |
 
-##### So when passive investors are told to “buy and hold” the market to capture market returns, what Index defines the market?  The Russell 2000 covers 10% of the market and produces the lowest returns.  The S&P covers 75% of the market and has returns ~35-45% lower than the NASDAQ.  The Dow Jones Industrial Average is a well known index but it covers only 30 stocks and performs worse than the S&P and NASDAQ.  General rule is the S&P 500 is the market and we’ll go with that assumption.
 
-##### Over the analysis time periods, the NASDAQ has consistently beaten all other indexes in returns by a fairly large margin while the Russell 2000 has been the poorest performer, with the S&P being the 2nd best performing Indexes.
+So when passive investors are told to “buy and hold” the market to capture market returns, what Index defines the market?  The Russell 2000 covers 10% of the market and produces the lowest returns.  The S&P covers 75% of the market and has returns ~35-45% lower than the NASDAQ.  The Dow Jones Industrial Average is a well known index but it covers only 30 stocks and performs worse than the S&P and NASDAQ.  General rule is the S&P 500 is the market and we’ll go with that assumption.
 
-#### Ranking performance by indexes sharpe ratio performance (assuming portfolio of 1 in each case):
+Over the analysis time periods, the NASDAQ has consistently beaten all other indexes in returns by a fairly large margin while the Russell 2000 has been the poorest performer, with the S&P being the 2nd best performing Indexes.
+
+### **Ranking performance by indexes sharpe ratio performance (assuming portfolio of 1 in each case):**
 
 -------
 
-	1-year			5-year			10-year
-    QQQ	0.289		QQQ	0.461		QQQ	0.614		
-    DIA	0.167		SPY	0.345		SPY	0.438
-    SPY	0.123		DIA	0.258		DIA	0.386
-    IWM	-0.012		IWM	0.006		IWM	0.213
+|       | 1-year |       | 5-year |       | 10-year |
+|-------|--------|-------|--------|-------|---------|
+| QQQ   | 0.289  | QQQ   | 0.461  | QQQ   | 0.614   |
+| DIA   | 0.167  | SPY   | 0.345  | SPY   | 0.438   |
+| SPY   | 0.123  | DIA   | 0.258  | DIA   | 0.386   |
+| IWM   | -0.012 | IWM   | 0.006  | IWM   | 0.213   |
+
 
 #### From a sharpe ratio ranking perspective, all indexes rank order similar to their ranking based on returns alone.  Investing in the NASDAQ provided a superior risk-return ratio vs. investing in any of the other indexes.  S&P performs slightly better than the Dow in 5 and 10 year timeframes but has been lagging in the 1 year timeframe. 
 
 <br>
 
 
-## 3 Efficient Frontier Indexes and Sector Charts
+## ***3 Efficient Frontier Indexes and Sector Charts:***
 -------
 <br>
 
@@ -279,7 +283,7 @@
 
 <br>
 
-## **INDEX AND SECTOR CORRELATIONS:**
+## ***INDEX AND SECTOR CORRELATIONS:***
 ----------------
 - Correlation coefficients across all indexes and sectors converge close to 1 as time increases to 10 years.  
 - The assumption here is based on the correlation coefficient formula, as the sample size increases with time, the - correlation coefficient increases over time.
@@ -315,7 +319,7 @@
 ## **EFFICIENT FRONTIER FOR OPTIONABLE STOCKS - 1, 5, 10-Year Views:**
 -------------
 
-### **Mean, Standard Deviation and Sharpe Ratio:**
+### ***Mean, Standard Deviation and Sharpe Ratio:***
 
 - The efficient investment frontier for stocks is the line that represents the highest returning stocks with the lowest standard deviations.  Investors should invest in only these stocks and not in stocks producing lower returns with higher risk.
 - This frontier can be seen by highlighting the sharpe ratio of stocks plotted alongside stock means and standard deviations.
