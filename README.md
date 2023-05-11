@@ -251,18 +251,6 @@
 ### ***Ranking performance by sector cumulative returns:***
 <br>
 
-    1-year			                    5-year			                    10-year
-    Technology	            13.1%		Technology		        128.7%		Technology		        454.5%
-    Energy		            10.1%		Consumer Staples	    101.4%		Healthcare		        215.3%
-    Industrials	            8.7%		Healthcare		        73.2%		Consumer Staples	    187.0%
-    Materials	            7.9%		Consumer Discretionary  71.9%		Industrials		        176.0%
-    Consumer Staples        7.8%		Industrials		        70.8%		Materials		        172.0%
-    Consumer Discretionary  7.7%		Consumer Discretionary  70.7%		Consumer Discretionary  170.0%
-    Healthcare	            7.6%		Materials		        69.8%		Consumer Discretionary  170.0%
-    Financials	            7.5%		Financials		        69.0%		Financials		        169.0%
-    Real Estate	            6.6%		Real Estate		        25.9%		Real Estate		        61.3%
-    Communications          -14.3%		Communications	        -10.8%		Communications	        3.2%
-
 ### **Top 3 performing sectors for returns:**
 
 -------------
