@@ -499,15 +499,13 @@
 - Having said this, select high sharpe ratio stocks (growth or value) like NVDA, MSFT and AAPL may continue to do well moving forward.
 
 --------------
-
 ## Notebooks
 - [JUPYTER LAB NOTEBOOK LINK](./main.ipynb)
 - [Final Analysis](./file.ipynb)
+---------
 
-## Getting Started
-
-### Prerequisites
-​
+## Getting Started - Prerequisites
+-----------
 ### ​You must have Python 3 installed:
 
 ```
@@ -518,7 +516,6 @@ python3 --version
 ```
 $ anaconda --version
 ```
-
 
 ### Install Environmnet:
 ```
