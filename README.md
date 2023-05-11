@@ -249,8 +249,8 @@
 -------------
 
 	    1-year					5-year					        10-year
-    Technology	13.1%		Technology		    128.7%		Technology		       454.5%
-    Energy		10.1%		Consumer Staples	    101.4%		Healthcare		    215.3%
+    Technology	13.1%		Technology		    128.7%		Technology		    454.5%
+    Energy	10.1%		Consumer Staples	    101.4%		Healthcare		    215.3%
     Industrials	 8.7%		Healthcare		    73.2%		Consumer Staples	    187.0%
 
 
@@ -263,8 +263,8 @@
 -----------
 
 	1-year					        5-year                              10-year
-    Communications       -14.3%		Communications	     -10.8%		    Communications            3.2%
-    Real Estate	       -8.4%		Real Estate		25.9%		    Energy		         46.1%
+    Communications     -14.3%		Communications	       -10.8%		    Communications          3.2%
+    Real Estate	       -8.4%		Real Estate		25.9%		    Energy		    46.1%
     Financials	       -2.6%		Financials		26.9%		    Real Estate	            61.3%
 
 - Communications is clearly the WORST performing sector across all timeframes and is consistently the best performing sector.
