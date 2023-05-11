@@ -430,6 +430,16 @@ Over the analysis time periods, the NASDAQ has consistently beaten all other ind
 - We have now created 9 portfolios selected from the top ranked sharpe ratios from the analysis above
 - We will run MC simulations with equal weighted stock positions in each portfolio to identify the best performing portfolios from a cumulative 5-year return perspective and sharpe ratio perspective.
 
+Returns:
+Initial investment of 10000 over the next 5 years would return anywhere from 63991.2 to 177077.24 stk_1y
+Initial investment of 10000 over the next 5 years would return anywhere from 31878.8 to 337166.99 stk_5y
+Initial investment of 10000 over the next 5 years would return anywhere from 24850.49 to 447238.38 stk_10y
+Initial investment of 10000 over the next 5 years would return anywhere from 11425.97 to 38682.79 value_1yr
+Initial investment of 10000 over the next 5 years would return anywhere from 51654.48 to 238906.82 growth_1yr
+Initial investment of 10000 over the next 5 years would return anywhere from 9292.54 to 49943.28 value_5yr
+Initial investment of 10000 over the next 5 years would return anywhere from 13641.49 to 137131.77 growth_5yr
+Initial investment of 10000 over the next 5 years would return anywhere from 9208.96 to 31509.89 value_10yr
+Initial investment of 10000 over the next 5 years would return anywhere from 22727.74 to 152846.47 growth_10yr
 
 ## **Box Plot showing min, 25%, 50%, 75% and max for each portfolio:**
 ---------
