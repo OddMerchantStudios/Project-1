@@ -187,7 +187,7 @@
 
 <br>
 
-####  The objective was to identify which index, sectors and stocks were more or less correlated; and which indexes, sectors and stocks produced the best sharpe ratios as a proxy for most efficient returns per unit of risk.  The top performing sharpe ratio stocks would then be utilized in creating optimal portfolios for future returns and risk forecasting.
+##### The objective was to identify which index, sectors and stocks were more or less correlated; and which indexes, sectors and stocks produced the best sharpe ratios as a proxy for most efficient returns per unit of risk.  The top performing sharpe ratio stocks would then be utilized in creating optimal portfolios for future returns and risk forecasting.
 
 <br>
 
