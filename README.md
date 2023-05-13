@@ -546,12 +546,12 @@ $ anaconda --version
 conda create -n <env_name> python=3.7 anaconda
 ```
 
-### Clone/Run Repository 
+### Clone Repository 
 ```
 git clone git@github.com:vkhorozian/Project-1.git
 ```
 
-### Activate Environment
+### Activate/Run Environment
 ```
 conda activate <env_name>
 ```
