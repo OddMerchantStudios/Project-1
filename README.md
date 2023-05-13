@@ -526,7 +526,6 @@ Initial investment of 10000 over the next 5 years would return anywhere from 227
 --------------
 ## Notebooks
 - [JUPYTER LAB NOTEBOOK LINK](./main.ipynb)
-- [Final Analysis](./file.ipynb)
 ---------
 
 ## Getting Started - Prerequisites
