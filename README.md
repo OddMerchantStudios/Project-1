@@ -1,5 +1,7 @@
 # Historical Index, Sector and Stock Market Analysis
 
+### [Our class presentation on YouTube](https://youtu.be/VsURMf4VpPs)
+
 ### Analysis Framework:
 
 #### **Market Statistics Report:**
